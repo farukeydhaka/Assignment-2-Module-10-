@@ -98,7 +98,7 @@ $library = new Library();
 
 // Add two books to the library
 $book1 = new Book("The Great Gatsby", 3);
-$book2 = new Book("1984", 2);
+$book2 = new Book("To Kill a Mockingbird", 2);
 $library->addBook($book1);
 $library->addBook($book2);
 
